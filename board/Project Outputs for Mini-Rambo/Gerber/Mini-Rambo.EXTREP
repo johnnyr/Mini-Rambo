@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Mini-Rambo.GBR   11/29/2016  9:40:56 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.GP1                GND                                     
+.G1                 Supply                                  
+.GBL                Bottom                                  
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Dimension                               
+.GM2                PCB Document                            
+.GM8                Top Document                            
+.GM9                Bot Document                            
+.GM11               Top Dimension                           
+.GM12               Bot Dimension                           
+.GM13               Top Body                                
+.GM14               Bot Body                                
+.GM15               Top Courtyard                           
+.GM16               Bot Courtyard                           
+------------------------------------------------------------------------------------------
